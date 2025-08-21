@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>alexismyname</title>
+    <link href="https://alexfinitore10.github.io/alexsite/feed.xml" rel="self" />
+    <link href="https://alexfinitore10.github.io/alexsite" />
+    <updated>2025-08-21T17:13:23+02:00</updated>
+    <author>
+        <name>Alex</name>
+    </author>
+    <id>https://alexfinitore10.github.io/alexsite</id>
+
+    <entry>
+        <title>Decisions Decisions</title>
+        <author>
+            <name>Alex</name>
+        </author>
+        <link href="https://alexfinitore10.github.io/alexsite/first-post/"/>
+        <id>https://alexfinitore10.github.io/alexsite/first-post/</id>
+
+        <updated>2025-08-21T16:34:01+02:00</updated>
+            <summary>
+                <![CDATA[
+                    As a first post I would like to discuss about me and my passions I really spend a lot of time on my computer. It started when I bought one at 13 years old, having little prior experience with them on the family computer I&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center">As a first post I would like to discuss about me and my passions</p>
+<p>I really spend a lot of time on my computer. It started when I bought one at 13 years old, having little prior experience with them on the family computer I had in the living room. The first PC was the first big decision of my life, that shaped what I would be in the next future. Obviously it came to me in a time where the fine line between using and abusing was not really well defined in my mind, and the "administrators" of that fine line didn't care. So I stayed as long as I wanted, but that is something that must be discussed in a different topic.<br>By trying and trying something I actually went from a complete garbage user to a mild understander of the concepts of "using the pc". Obviously, I'm no gifted person, so I stayed and became familliar with the user experience that I always had : Windows, not learning at all deeply about computers, just rather using it for the main reasons a kid would have to use it. Youtube, videogames and chatting.</p>
+<p>And it went like this, for all of the high school years, giving it all up to the videogame scene. And puff, at the end of it, just when I had to decide what I wanted to persue as a career, I chose <span style="text-decoration: underline;">Computer Science</span>. As of today, not the smartest decision, but the most sensed one. I have spent litterally all the most important school years on a computer, so it had to be it, right?</p>
+<p>Fast forward to now... It was a difficult path, full of mistakes, <strong>injustice</strong>, wrath but a little of more experience on my side. </p>
+<p>My <strong>expectations</strong> were completely wiped up as I continued the course and my passion of it started shaking. With it, the newly discovered "disease" or "problem" to my eyes was just presenting itself, giving me a really tough time with studying, psychocologically.</p>
+<p>Passions huh? So It started with <strong>videogames</strong>, obviously, I really wanted to become one of the people behind the courtain, and not just frontally playing it. It was a beautiful past time, fantasizing about what I wanted to make and what I had to learn to make it and facing the harsh reality. I even followed some tutorials on making some, but with poor results.</p>
+<p>Having facing that, I went to the simplest of the game engine, RPG Maker, and made "the first game" with a friend. The development time was beautiful, full of passion, creativity and a lot of laughs. Surely some well spent time, I must say. A time that I will always remember. After the release of it the ideas started blooming and pumping from a simpler game to much difficult and time consuming ideas. The bases were told and formed but, somehow and something dragged me out of that, so I backed up of the project, leaving my friend doing it solo, and that, eventually, led him to back up too.</p>
+<p>Making videogames is hard. I didn't have any weapons with me at that time. Now I actually have, but I don't feel like doing anything games related, even tho, it's a pretty dope idea in my mind.<br>The 5 years of university were permeated with the idea that I had time for making a new game, but I never actually went serious on anything. There was just a moment during the Covid pandemic where I decided to do something on my own, It actually went a little ok, but then I folded the project. It was a pretty basic one.</p>
+<p>As of today, videogame making is a scraped idea on my mind. The market is pretty full and layoffs is the current fashion. In a place like that, I would never go, it would be a bad experience, I know. So I went to look for something that I would like more than other things in CS. And then I found <strong>Networks</strong>.</p>
+<p>I always had network problems at my home, problems that fortunately would solve because of the fact that my father worked with a private internet company and the issues would soon be solved, fortunately. But also with that, the internet was really really bad for the standard of the day. So I always went and investigate what the problem would be, but with little or no results. That led me to get interested in networks.</p>
+<p><strong>Computer networks</strong> is a topic of further topics, that I would like to talk more and more.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

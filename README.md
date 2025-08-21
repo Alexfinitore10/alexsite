@@ -1,2 +1,0 @@
-# alexsite
-A static site 
